@@ -1,0 +1,8 @@
+{
+  "name": "PaceKeeper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "193be93f"
+}
